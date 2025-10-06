@@ -5,7 +5,7 @@ I'm **Emelie Björkman**, a fullstack JavaScript student who loves building and 
 
 Just started my fullstack JS journey and I'm excited to learn, create, and grow as a developer!
 
-📧 Reach me at [bjorkmanemelie@hotmail.com](mailto:bjorkmanemelie@hotmail.com)
+📧 Email me [bjorkmanemelie@hotmail.com](mailto:bjorkmanemelie@hotmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -24,8 +24,8 @@ Just started my fullstack JS journey and I'm excited to learn, create, and grow 
 Currently diving into fullstack JavaScript development with a focus on:
 - Building responsive, mobile-first applications
 - Creating intuitive user experiences
-- Backend development with Express
-- Database design with MySQL
+- Backend development 
+- Database design
 
 ## 💡 Development approach
 
