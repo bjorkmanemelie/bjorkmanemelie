@@ -7,8 +7,6 @@ Just started my fullstack JS journey and I'm excited to learn, create, and grow 
 
 📧 Email me [bjorkmanemelie@hotmail.com](mailto:bjorkmanemelie@hotmail.com)
 
-## 🛠️ Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
