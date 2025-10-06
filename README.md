@@ -1,5 +1,4 @@
-
-# Hi there 👋
+### Hi there 👋
 
 I'm **Emelie Björkman**, a fullstack JavaScript student who loves building and experimenting with user-friendly apps.
 
@@ -17,7 +16,7 @@ Just started my fullstack JS journey and I'm excited to learn, create, and grow 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-## 🌱 What I'm learning
+### 🌱 What I'm learning
 
 Currently diving into fullstack JavaScript development with a focus on:
 - Building responsive, mobile-first applications
@@ -25,7 +24,7 @@ Currently diving into fullstack JavaScript development with a focus on:
 - Backend development 
 - Database design
 
-## 💡 Development approach
+### 💡 Development approach
 
 - **User-focused**: Always keeping the end user in mind
 - **Mobile-first**: Designing for mobile devices from the start
