@@ -2,7 +2,7 @@
 
 I'm **Emelie Björkman**, a fullstack student who loves experimenting.
 
-💻 Just started my fullstack journey at Chas Academy and I'm excited to learn, create, and grow as a developer!
+💻 Im on my fullstack journey at Chas Academy and I'm excited to learn, create, and grow as a developer!
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
