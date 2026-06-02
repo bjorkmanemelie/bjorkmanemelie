@@ -35,7 +35,4 @@ I'm **Emelie Björkman**, a fullstack student who loves experimenting.
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### 📊 GitHub-statistik
 
-![Emelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjorkmanemelie&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bjorkmanemelie&layout=compact&theme=tokyonight&hide_border=true)
